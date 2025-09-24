@@ -41,10 +41,10 @@ a. Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where tra
 import pandas as pd
 ````
 
-2. Load the dataset `board2.csv` into a DataFrame.
+2. Load the dataset `board2.xlsx` into a DataFrame.
 
 ```python
-df = pd.read_csv("board2.csv")
+df = pd.read_excel("board2.xlsx")
 ```
 
 3. Apply filtering conditions using `&`: Track is Instrumentation, Hometown is Luzon, and Electronics > 70.
