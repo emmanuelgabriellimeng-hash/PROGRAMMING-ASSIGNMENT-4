@@ -24,7 +24,7 @@ Download Excel File:
 ## ECE BOARD EXAM PROBLEM:
 
 Using data wrangling and data visualization technique with storytelling, analyze the data and present different (i) data frames; and (ii) visuals using the dataset given.
-1. Crea|te the following data frames based on the format provided:
+### 1. Create the following data frames based on the format provided:
         Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as Visayas
 
    <img width="609" height="107" alt="image" src="https://github.com/user-attachments/assets/d86bf4d8-3965-4e1f-86b2-251d8e0f9f19" />
@@ -79,7 +79,7 @@ b. Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=
 df["Average"] = df[["Math","Electronics","GEAS","Communication"]].mean(axis=1)
 ```
 
-2. Apply filtering conditions: Hometown is Mindanao, Gender is Female, and Average ≥ 55.
+### 2. Apply filtering conditions: Hometown is Mindanao, Gender is Female, and Average ≥ 55.
 
 ```python
 Mindy = df[(df["Hometown"] == "Mindanao") & 
