@@ -7,10 +7,10 @@ This programming assignment demonstrates how to use **Pandas** for data wranglin
 
 ## Directory  
 Problem Item 1:  
-* 
+* https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-4/blob/main/README.md#ece-board-exam-problem
 
 Problem Item 2:  
-* 
+* https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-4/blob/main/README.md#ece-board-exam-problem:~:text=Create%20a%20visualization%20that%20shows%20how%20the%20different%20features%20contributes%20to%20average%20grade.%20Does%20chosen%20track%20in%20college%2C%20gender%2C%20or%20hometown%20contributes%20to%20a%20higher%20average%20score%3F
 
 Program Link:  
 * https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-4/blob/main/LIM_2ECEB_Experiment_4.ipynb
