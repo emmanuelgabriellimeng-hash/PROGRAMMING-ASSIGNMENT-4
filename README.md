@@ -100,8 +100,7 @@ Mindy
 
 ---
 
-### 2. Create a visualization that shows how the different features contributes to average grade. Does
-chosen track in college, gender, or hometown contributes to a higher average score?
+### 2. Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
 
 ---
 
