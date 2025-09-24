@@ -79,7 +79,7 @@ b. Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=
 df["Average"] = df[["Math","Electronics","GEAS","Communication"]].mean(axis=1)
 ```
 
-### 2. Apply filtering conditions: Hometown is Mindanao, Gender is Female, and Average ≥ 55.
+2. Apply filtering conditions: Hometown is Mindanao, Gender is Female, and Average ≥ 55.
 
 ```python
 Mindy = df[(df["Hometown"] == "Mindanao") & 
@@ -100,7 +100,7 @@ Mindy
 
 ---
 
-2. Create a visualization that shows how the different features contributes to average grade. Does
+### 2. Create a visualization that shows how the different features contributes to average grade. Does
 chosen track in college, gender, or hometown contributes to a higher average score?
 
 ---
